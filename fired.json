@@ -1,0 +1,16 @@
+{
+  "name": "YOU ARE FIRED",
+  "symbol": "FIRED",
+  "description": "Experimental SPL token created via CLI in WSL",
+  "image": "https://bafybeicwyctig6vnqpeev5pmrluenzjmziwpzx5khjukf2e7j5btwelhsi.ipfs.dweb.link?filename=fired.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://bafybeicwyctig6vnqpeev5pmrluenzjmziwpzx5khjukf2e7j5btwelhsi.ipfs.dweb.link?filename=fired.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
