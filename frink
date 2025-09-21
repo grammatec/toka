@@ -1,0 +1,16 @@
+{
+  "name": "FRINKO MEMES",
+  "symbol": "FRINK",
+  "description": "Experimental SPL token created via CLI in WSL",
+  "image": "https://bafybeidh6ylpupl3am6d66mn6hmezs6nifwfj4ynqiqyz43ra35zz2fwfy.ipfs.dweb.link?filename=frinko.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://bafybeidh6ylpupl3am6d66mn6hmezs6nifwfj4ynqiqyz43ra35zz2fwfy.ipfs.dweb.link?filename=frinko.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
