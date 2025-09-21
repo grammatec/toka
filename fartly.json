@@ -1,0 +1,16 @@
+{
+  "name": "FARTLY",
+  "symbol": "FART",
+  "description": "Experimental SPL token created via CLI in WSL",
+  "image": "https://bafybeiffoqgpex5hzcqzfb2zoahpzwe7fdfz62zb6667nx24nuiijvmhci.ipfs.dweb.link?filename=fartly.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://bafybeiffoqgpex5hzcqzfb2zoahpzwe7fdfz62zb6667nx24nuiijvmhci.ipfs.dweb.link?filename=fartly.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
