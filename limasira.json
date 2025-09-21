@@ -1,0 +1,16 @@
+{
+  "name": "LIMASIRA",
+  "symbol": "LIMAS",
+  "description": "Experimental SPL token created via CLI in WSL",
+  "image": "https://bafybeih5jf4qknsshkidf3xh3bmtr6qygvydy3y66xi6mtdkiaffapxktq.ipfs.dweb.link?filename=limas.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://bafybeih5jf4qknsshkidf3xh3bmtr6qygvydy3y66xi6mtdkiaffapxktq.ipfs.dweb.link?filename=limas.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
