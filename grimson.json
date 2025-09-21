@@ -1,1 +1,16 @@
-
+{
+  "name": "GRIMSON",
+  "symbol": "GRMS",
+  "description": "Experimental SPL token created via CLI in WSL",
+  "image": "https://bafybeihkodkzwvzkklgpgcu53u6dozaz43it7q2rmk3yinngbffnmop2yu.ipfs.dweb.link?filename=brintcoin.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://bafybeihkodkzwvzkklgpgcu53u6dozaz43it7q2rmk3yinngbffnmop2yu.ipfs.dweb.link?filename=brintcoin.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
