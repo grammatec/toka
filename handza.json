@@ -1,0 +1,16 @@
+{
+  "name": "HANDZA",
+  "symbol": "HANDZ",
+  "description": "Experimental SPL token created via CLI in WSL",
+  "image": "https://bafybeiavcc2o3kcy5mduj3whppl4wefleqlpdimzxb4t2lo4vlecyj7ruy.ipfs.dweb.link?filename=handza.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://bafybeiavcc2o3kcy5mduj3whppl4wefleqlpdimzxb4t2lo4vlecyj7ruy.ipfs.dweb.link?filename=handza.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
